@@ -2,3 +2,4 @@ ECHO is on.
 "change 1 on the master branch" 
 Save 2
 This is my second commit on master
+Change 2 on MyBranch
